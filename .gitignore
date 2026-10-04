@@ -1,0 +1,11 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+.kotlin/
+iosApp/build/
+xcuserdata/
+google-services.json
+GoogleService-Info.plist
